@@ -427,17 +427,10 @@
     </div>
     <div class="edu-item">
       <div>
-        <div class="edu-degree">English Proficiency Learning</div>
-        <div class="edu-school">Y2K College, Cape Town</div>
-      </div>
-      <div class="edu-date">2022</div>
-    </div>
-    <div class="edu-item">
-      <div>
         <div class="edu-degree">High School Matric</div>
-        <div class="edu-school">Collège Catholique Mgr Kirman, Daloa, Côte d'Ivoire</div>
+        <div class="edu-school">College Catholique Mgr Kirman</div>
       </div>
-      <div class="edu-date">2018 – 2021</div>
+      <div class="edu-date">2018 – 2022</div>
     </div>
   </section>
 
