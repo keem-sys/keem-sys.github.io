@@ -4,21 +4,21 @@
 
 Aspiring Software Developer
 
-📍 Cape Town, South Africa &nbsp;|&nbsp; 📞 +27 607443984 &nbsp;|&nbsp; 📧 [230480152@mycput.ac.za](mailto:230480152@mycput.ac.za)
+Cape Town, South Africa &nbsp;|&nbsp; +27 607443984 &nbsp;|&nbsp; 📧 [230480152@mycput.ac.za](mailto:230480152@mycput.ac.za)
 
-🌐 [ebenezerkouakou.com](https://ebenezerkouakou.com) &nbsp;|&nbsp; 🐙 [github.com/keem-sys](https://github.com/keem-sys) &nbsp;|&nbsp; 💼 [linkedin.com/in/ebenezer-kouakou](https://linkedin.com/in/ebenezer-kouakou)
+[ebenezerkouakou.com](https://ebenezerkouakou.com) &nbsp;|&nbsp;  [github.com/keem-sys](https://github.com/keem-sys) &nbsp;|&nbsp; [linkedin.com/in/ebenezer-kouakou](https://linkedin.com/in/ebenezer-kouakou)
 
 </div>
 
 ---
 
-## 👤 Profile
+## Profile
 
 Aspiring software developer with a strong foundation in Java, object-oriented programming, and database fundamentals. Experienced in academic and team-based projects with consistent academic distinction. Seeking an internship to apply technical skills, gain industry exposure, and contribute to real-world software solutions.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Diploma: ICT in Applications Development**
 Cape Peninsula University of Technology — Cape Town
@@ -34,7 +34,7 @@ College Catholique Mgr Kirman
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages & Technologies**
 
@@ -66,14 +66,14 @@ College Catholique Mgr Kirman
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### ZipStore — Full Stack E-commerce Platform
 > Java Spring Boot REST API + React frontend
 
 - Engineered a full e-commerce platform with secure **Stripe payment processing**
 - Implemented stateless **JWT authentication** and server-state caching with **React Query**
-- 🔗 [zipstore-shop.vercel.app](https://zipstore-shop.vercel.app)
+- [zipstore-shop.vercel.app](https://zipstore-shop.vercel.app)
 
 ---
 
@@ -81,7 +81,7 @@ College Catholique Mgr Kirman
 > Java Swing Desktop Application
 
 - Collaborated with classmates to build a desktop app helping students find suitable accommodations
-- 🔗 [GitHub Release](https://github.com/keemsys/ResFinder/releases)
+- [GitHub Release](https://github.com/keemsys/ResFinder/releases)
 
 ---
 
@@ -90,7 +90,7 @@ College Catholique Mgr Kirman
 
 - Developed a client-server app for managing student enrollments
 - Admins manage course and student data through full **CRUD operations**
-- 🔗 [GitHub](https://github.com/keemsys/student-enrolment-system)
+- [GitHub](https://github.com/keemsys/student-enrolment-system)
 
 ---
 
@@ -98,11 +98,11 @@ College Catholique Mgr Kirman
 > In Progress
 
 - Developing a website that compares product prices across **Shoprite, Pick n Pay and Checkers**
-- 🔗 [GitHub](https://github.com/keemsys/OptiPrice)
+- [GitHub](https://github.com/keemsys/OptiPrice)
 
 ---
 
-## 📞 References
+## References
 
 **Chris De-Tchambila** — Software Engineer, Capgemini
 [christ.tchambila@gmail.com](mailto:christ.tchambila@gmail.com)
