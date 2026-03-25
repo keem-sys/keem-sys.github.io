@@ -1,3 +1,7 @@
+---
+title: Ebenezer Kouakou - CV
+---
+
 <div align="center">
 
 # Ebenezer Kouakou
