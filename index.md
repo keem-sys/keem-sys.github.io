@@ -6,11 +6,9 @@ title: Ebenezer Kouakou - CV
 
 Aspiring Software Developer
 
-Cape Town, South Africa &nbsp;|&nbsp; +27 607443984 &nbsp;|&nbsp; 📧 [230480152@mycput.ac.za](mailto:230480152@mycput.ac.za)
+Cape Town, South Africa &nbsp;|&nbsp; +27 607443984 &nbsp;|&nbsp; [230480152@mycput.ac.za](mailto:230480152@mycput.ac.za)
 
-[ebenezerkouakou.com](https://ebenezerkouakou.com) &nbsp;|&nbsp;  [github.com/keem-sys](https://github.com/keem-sys) &nbsp;|&nbsp; [linkedin.com/in/ebenezer-kouakou](https://linkedin.com/in/ebenezer-kouakou)
-
-</div>
+[ebenezerkouakou.com](https://ebenezerkouakou.com) &nbsp;|&nbsp; [github.com/keem-sys](https://github.com/keem-sys) &nbsp;|&nbsp; [linkedin.com/in/ebenezer-kouakou](https://linkedin.com/in/ebenezer-kouakou)
 
 ---
 
