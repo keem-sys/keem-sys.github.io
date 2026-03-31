@@ -104,7 +104,7 @@ College Catholique Mgr Kirman
 
 ## Mock Interview
 
-<iframe src="https://drive.google.com/file/d/1Cfjti2qZNRK01Eis7JKvHgDLbpOpgyTS/view?usp=sharing" width="560" height="315" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1Cfjti2qZNRK01Eis7JKvHgDLbpOpgyTS/view" width="560" height="315" allowfullscreen></iframe>
 
 ---
 
