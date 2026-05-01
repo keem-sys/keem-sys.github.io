@@ -115,3 +115,51 @@ College Catholique Mgr Kirman
 
 **H. Botha** — Lecturer in IT Service Management, Northlink College
 +27 82 729 4046
+
+---
+
+## Reflection: Coding in Markdown
+
+**Situation**
+As part of my Project Presentation 3 module, I was required to design a digital portfolio using GitHub and deploy it to GitHub Pages using Markdown.
+
+**Task**
+My task was to learn and apply Markdown syntax to create a structured, readable CV that could be rendered as a webpage, without using traditional web development tools like plain HTML and CSS.
+
+**Action**
+I researched GitHub Flavoured Markdown (GFM) and learned how to use headings, bold text, links, horizontal rules, and embedded images such as shields.io badges to represent my tech stack visually. I also incorporated HTML elements like `<iframe>` and `&nbsp;` within the Markdown file to enhance formatting where plain Markdown was limited.
+
+**Result**
+I successfully produced a fully structured CV in Markdown that renders cleanly on GitHub and GitHub Pages. This process deepened my understanding of how developers use Markdown for documentation, README files, and communication in real-world software projects.
+
+---
+
+## Reflection: Mock Interview Experience
+
+**Situation**
+As part of my work readiness training, I was required to participate in a mock interview to simulate a real job interview scenario as an aspiring software developer.
+
+**Task**
+My task was to present myself professionally, articulate my technical skills and project experience clearly, and demonstrate that I am ready for an internship in the software development industry.
+
+**Action**
+I prepared by reviewing my CV and projects beforehand, practised answering common technical and behavioural interview questions, and focused on communicating my experience with Java, Spring Boot, React, and my academic projects such as ZipStore and the Student Accommodation Finder.
+
+**Result**
+The mock interview helped me identify areas where I need to improve, particularly in confidently articulating technical concepts under pressure. It was a valuable experience that has better prepared me for real internship and job interviews going forward.
+
+---
+
+## Reflection: Deploying to GitHub Pages
+
+**Situation**
+After designing my digital portfolio in Markdown, I was required to deploy it as a live webpage accessible to anyone on the internet using GitHub Pages.
+
+**Task**
+My task was to configure GitHub Pages correctly so that my `index.md` file would render as a styled, functional webpage rather than raw Markdown text.
+
+**Action**
+I enabled GitHub Pages through the repository settings, set the source branch to main, and manually created a `_config.yml` file to apply the Cayman Jekyll theme since the theme chooser was no longer available in the GitHub Pages UI. I also troubleshot rendering issues caused by HTML tags conflicting with Jekyll's Markdown parser and resolved them by restructuring the file.
+
+**Result**
+My portfolio is now successfully deployed and publicly accessible at `https://keem-sys.github.io/`. This experience gave me practical exposure to static site deployment, Jekyll configuration, and the challenges of rendering Markdown in different environments and the good thing is that these skills that are directly applicable to real-world software development workflows.
