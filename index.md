@@ -14,7 +14,7 @@ Cape Town, South Africa &nbsp;|&nbsp; +27 607443984 &nbsp;|&nbsp; [230480152@myc
 
 ## Agile Portfolio: Industry Placement
 
-Evidence and reflections from my software engineering internship at Achievements Awards Group (AAG), where our team works in two-week sprints with daily stand-ups at 09:15.
+Evidence and reflections from my software engineering internship at Achievements Awards Group (AAG), where our team works in two-week sprints with daily stand-ups.
 
 | # | Artefact | What it shows |
 |---|----------|---------------|
