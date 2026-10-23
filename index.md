@@ -13,6 +13,7 @@ Cape Town, South Africa &nbsp;|&nbsp; +27 607443984 &nbsp;|&nbsp; [230480152@myc
 ---
 
 ## Agile Portfolio: Industry Placement
+{: #agile-portfolio }
 
 Evidence and reflections from my software engineering internship at Achievements Awards Group (AAG), where our team works in two-week sprints with daily stand-ups.
 
@@ -27,6 +28,7 @@ Evidence and reflections from my software engineering internship at Achievements
 ---
 
 ## Profile
+{: #cv }
 
 Aspiring software developer with a strong foundation in Java, object-oriented programming, and database fundamentals. Experienced in academic and team-based projects with consistent academic distinction. Seeking an internship to apply technical skills, gain industry exposure, and contribute to real-world software solutions.
 
@@ -81,6 +83,7 @@ College Catholique Mgr Kirman
 ---
 
 ## Projects
+{: #projects }
 
 ### ZipStore — Full Stack E-commerce Platform
 > Java Spring Boot REST API + React frontend
@@ -133,6 +136,7 @@ College Catholique Mgr Kirman
 ---
 
 ## Reflection: Coding in Markdown
+{: #reflections }
 
 **Situation**
 As part of my Project Presentation 3 module, I was required to design a digital portfolio using GitHub and deploy it to GitHub Pages using Markdown.
