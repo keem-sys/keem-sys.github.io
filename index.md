@@ -12,6 +12,20 @@ Cape Town, South Africa &nbsp;|&nbsp; +27 607443984 &nbsp;|&nbsp; [230480152@myc
 
 ---
 
+## Agile Portfolio: Industry Placement
+
+Evidence and reflections from my software engineering internship at Achievements Awards Group (AAG), where our team works in two-week sprints with daily stand-ups at 09:15.
+
+| # | Artefact | What it shows |
+|---|----------|---------------|
+| 1 | [Agile Team Charter]({{ '/agile-team-charter/' | relative_url }}) | Team purpose, roles, communication, Definition of Ready/Done |
+| 2 | [User Stories and Tasks]({{ '/user-stories-and-tasks/' | relative_url }}) | Seven user stories with acceptance criteria and task breakdowns |
+| 3 | [Product Backlog]({{ '/product-backlog/' | relative_url }}) | Prioritised backlog items (PB-01 to PB-12) and refinement |
+| 4 | [Sprint Backlog]({{ '/sprint-backlog/' | relative_url }}) | Sprint goal, work items, task stages and blockers |
+| 5 | [Agile Logbook]({{ '/agile-logbook/' | relative_url }}) | Dated stand-up entries, retrospective and overall reflection |
+
+---
+
 ## Profile
 
 Aspiring software developer with a strong foundation in Java, object-oriented programming, and database fundamentals. Experienced in academic and team-based projects with consistent academic distinction. Seeking an internship to apply technical skills, gain industry exposure, and contribute to real-world software solutions.
@@ -99,20 +113,6 @@ College Catholique Mgr Kirman
 
 - Developing a website that compares product prices across **Shoprite, Pick n Pay and Checkers**
 - [GitHub](https://github.com/keemsys/OptiPrice)
-
----
-
-## Agile Portfolio: Industry Placement
-
-Evidence and reflections from my software engineering internship at Achievements Awards Group (AAG), where our team works in two-week sprints with daily stand-ups at 09:15.
-
-| # | Artefact | What it shows |
-|---|----------|---------------|
-| 1 | [Agile Team Charter]({{ '/agile-team-charter/' | relative_url }}) | Team purpose, roles, communication, Definition of Ready/Done |
-| 2 | [User Stories and Tasks]({{ '/user-stories-and-tasks/' | relative_url }}) | Seven user stories with acceptance criteria and task breakdowns |
-| 3 | [Product Backlog]({{ '/product-backlog/' | relative_url }}) | Prioritised backlog items (PB-01 to PB-12) and refinement |
-| 4 | [Sprint Backlog]({{ '/sprint-backlog/' | relative_url }}) | Sprint goal, work items, task stages and blockers |
-| 5 | [Agile Logbook]({{ '/agile-logbook/' | relative_url }}) | Dated stand-up entries, retrospective and overall reflection |
 
 ---
 
