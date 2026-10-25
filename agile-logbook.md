@@ -129,6 +129,9 @@ This logbook documents selected experiences from my software engineering placeme
 
 **Outcome and learning:** I gained experience using automated tests to identify problems and assess whether changes preserved expected behaviour. I also recognised the value of considering test scenarios during planning rather than only after implementation.
 
+**Evidence:** 
+<img src="{{ '/assets/img/test-plan-validation-checklist.png' | relative_url }}" alt="Test Plan Validation Checklist">
+
 **Reflection:** I learned that testing is more effective when expected behaviour and edge cases are considered during task planning. If testing is left until the end, important scenarios may be overlooked or require additional changes. In future, I would identify relevant test cases when breaking down a user story and use the results to verify that the completed work meets its acceptance criteria.
 
 ### Entry 7: Picking-Slip Functionality and PDF Output
@@ -146,6 +149,9 @@ This logbook documents selected experiences from my software engineering placeme
 **Blockers and dependencies:** The workflow involved multiple application layers, so the final output depended on the data, server-side processing, and browser handling working together.
 
 **Outcome and learning:** I gained a better understanding of how a user-facing feature can depend on several connected components and how failures in one part of a workflow can affect the final result.
+
+**Evidence:** <img src="{{ '/assets/img/document-generation-flow.png' | relative_url }}" alt="Document Generation Flow.png">
+
 
 **Reflection:** I learned that testing an individual component does not necessarily prove that the entire workflow works. A document may be generated successfully but still encounter problems during delivery or printing. In future, I would include an end-to-end validation step that checks the final output from the user's perspective, alongside testing individual components.
 
