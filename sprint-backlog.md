@@ -66,9 +66,7 @@ These experiences have reinforced the importance of including investigation, tes
 
 ## 8. Evidence
 
-<img src="{{ '/assets/img/sprint-workflow.png' | relative_url }}" alt="Two-week sprint workflow diagram">
-
-The sprint cycle used by the team: sprint planning, daily stand-up, sprint review (demo), retrospective and backlog update.
+<img src="{{ '/assets/img/sprint-task-progress-board.png' | relative_url }}" alt="Sprint Task Progress Board">
 
 ---
 
