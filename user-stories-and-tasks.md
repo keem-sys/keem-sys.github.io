@@ -149,6 +149,16 @@ Based on this, I changed the implementation to call the appropriate service endp
 
 Next time, I would review the API documentation and confirm the expected request parameters and response structure before breaking the story into development tasks. I would also include explicit tasks for validating the API contract and testing successful, missing, and unsuccessful responses. This would help me make better implementation decisions earlier, reduce avoidable rework, and produce a more reliable solution.
 
+## Evidence
+
+1. User story breakdown diagram of points account lookup
+<img src="{{ '/assets/img/user-story-breakdown.png' | relative_url }}" alt="Points account lookup story breakdown.png">
+   
+
+2. User story-to-task traceability table
+<img src="{{ '/assets/img/traceability_table.png' | relative_url }}" alt="Points account lookup story breakdown.png">
+
+
 ---
 
 [← Back to portfolio]({{ '/' | relative_url }})
