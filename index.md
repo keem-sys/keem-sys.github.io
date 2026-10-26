@@ -43,11 +43,6 @@ Cape Peninsula University of Technology — Cape Town
 **Higher Certificate: ICT in Information Technology** *(Summa Cum Laude)*
 Cape Peninsula University of Technology — Cape Town
 *2023*
-
-**High School Matric**
-College Catholique Mgr Kirman
-*2019 – 2022*
-
 ---
 
 ## Skills
@@ -126,12 +121,6 @@ College Catholique Mgr Kirman
 
 **H. Botha** — Lecturer in IT Service Management, Northlink College
 +27 82 729 4046
-
----
-
-## Mock Interview
-
-<iframe src="https://drive.google.com/file/d/1Cfjti2qZNRK01Eis7JKvHgDLbpOpgyTS/preview" width="100%" height="500" allowfullscreen></iframe>
 
 ---
 
